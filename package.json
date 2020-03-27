@@ -1,0 +1,21 @@
+{
+    "name": "cuda-single-page-portfolio",
+    "version": "1.0.0",
+    "description": "A Single Page Fully Responsive Website",
+    "main": "index.html",
+    "repository": "https://github.com/shafiulmmc/cuda-single-page-portfolio.git",
+    "author": "Shafiul Alam <shafiul.primitivesolution@gmail.com>",
+    "license": "MIT",
+    "private": true,
+    "dependencies": {
+        "font-awesome": "^4.7.0",
+        "html5shiv": "^3.7.3",
+        "jquery": "^3.4.1",
+        "jquery-migrate": "^3.1.0",
+        "mixitup": "^3.3.1",
+        "normalize.css": "^8.0.1",
+        "respond.js": "^1.4.2",
+        "selectivizr": "^1.0.3",
+        "waypoints": "^4.0.1"
+    }
+}
